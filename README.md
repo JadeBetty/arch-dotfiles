@@ -1,7 +1,8 @@
 # jadebetty version of neon dotfiles 
 
 
-- who tf is neon jade
+## who tf is neon jade?
+
 neon is a cool friend of mine who helped me with setting up arch linux dotfiles
 and i suck at arch linux
 he good :thumbs_up:
